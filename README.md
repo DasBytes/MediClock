@@ -1,30 +1,31 @@
 MediClock 💊
 
-MediClock is a full-featured medication tracking app built with React Native, Expo, and TypeScript. It helps users manage their medications, receive reminders, track progress, and ensure they never miss a dose.
+MediClock is a full-featured medication tracking app built with React Native, Expo, and TypeScript. It helps users manage medications, receive reminders, track progress, and never miss a dose.
+
 
 📱 Key Features
 
-Medication scheduling with custom reminders
+⏰ Medication Scheduling – Set custom reminders for every medicine.
 
-Refill tracking and supply management
+💊 Refill Tracking – Manage supply and get low-stock alerts.
 
-Cross-platform compatibility (iOS & Android)
+📱 Cross-Platform – Works on iOS & Android.
 
-Biometric authentication (Face ID / Touch ID)
+🔒 Biometric Authentication – Face ID & Touch ID support.
 
-Daily progress tracking and history logging
+📊 Progress Tracking – Daily logs and history visualization.
 
-Calendar integration for dose management
+📅 Calendar Integration – Keep all doses organized.
 
-Secure local data storage with AsyncStorage
+💾 Secure Local Storage – All data stored safely with AsyncStorage.
 
 🛠 Tech Stack
 
 React Native – Cross-platform mobile development
 
-Expo – Native app features and tooling
+Expo – Access to native features and tooling
 
-TypeScript – Type-safe codebase
+TypeScript – Type-safe, scalable code
 
 React Navigation – Smooth app navigation
 
@@ -34,9 +35,9 @@ AsyncStorage – Local data persistence
 
 React Native Reanimated – Smooth animations
 
-🎓 What You'll Learn
+🎓 What You’ll Learn
 
-React Native fundamentals and best practices
+React Native fundamentals & best practices
 
 Expo ecosystem integration
 
@@ -46,40 +47,33 @@ Biometric authentication flow
 
 Local data management strategies
 
-Calendar and scheduling features
+Calendar & scheduling features
 
 UI/UX best practices for mobile apps
 
 📚 Project Highlights
 
-Customizable medication reminders
+💊 Customizable Medication Reminders
 
-Refill tracking with low supply alerts
+🔔 Refill Tracking & Alerts
 
-Daily progress visualization
+📊 Daily Progress Visualization
 
-Secure authentication flow
+🔐 Secure Authentication Flow
 
-Cross-platform compatibility
+📱 Cross-Platform Compatibility
 
-Clean and modern UI design
+✨ Clean & Modern UI Design
 
 ⚡ Project Setup
-
-Clone the repository:
-
+# Clone the repository
 git clone https://github.com/DasBytes/MediClock.git
+cd MediClock
 
-cd mediclock
-
-
-Install dependencies:
-
+# Install dependencies
 npm install
 
-
-Start the Expo project:
-
+# Start the Expo project
 expo start
 
 
