@@ -68,7 +68,7 @@ Clean and modern UI design
 
 Clone the repository:
 
-git clone https://github.com/yourusername/mediclock.git
+git clone https://github.com/DasBytes/MediClock.git
 cd mediclock
 
 
