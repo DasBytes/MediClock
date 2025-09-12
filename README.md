@@ -35,21 +35,6 @@ AsyncStorage – Local data persistence
 
 React Native Reanimated – Smooth animations
 
-🎓 What You’ll Learn
-
-React Native fundamentals & best practices
-
-Expo ecosystem integration
-
-Push notification implementation
-
-Biometric authentication flow
-
-Local data management strategies
-
-Calendar & scheduling features
-
-UI/UX best practices for mobile apps
 
 📚 Project Highlights
 
@@ -97,14 +82,4 @@ Data persistence strategies
 
 Deployment considerations
 
-⭐ Key Resources
 
-React Native
-
-Expo
-
-TypeScript
-
-React Navigation
-
-Expo Notifications
