@@ -1,6 +1,6 @@
 MediClock 💊
 
-MediClock is a full-featured medication tracking app built with React Native, Expo, and TypeScript. It helps users manage medications, receive reminders, track progress, and never miss a dose.
+MediClock is a full-featured medication tracking app built with flutter. It helps users manage medications, receive reminders, track progress, and never miss a dose.
 
 
 📱 Key Features
