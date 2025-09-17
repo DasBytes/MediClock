@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import '../../utils/storage.dart'; // You'll implement storage in Flutter
-import '../../constants/colors.dart'; // Your custom colors
+import 'package:medclock/utils/storage.dart'; // You'll implement storage in Flutter
+import 'package:medclock/constants/colors.dart'; // Your custom colors
 
 class CalendarScreen extends StatefulWidget {
   const CalendarScreen({super.key});
