@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # medclock
 
 A new Flutter project.
@@ -102,9 +100,3 @@ Notification system setup
 Data persistence strategies
 
 Deployment considerations
-
-
-<<<<<<< HEAD
->>>>>>> e30bf0e406e2d115aabf4e8ebe4f74cc92d39770
-=======
->>>>>>> e30bf0e406e2d115aabf4e8ebe4f74cc92d39770
