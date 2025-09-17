@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # medclock
 
 A new Flutter project.
@@ -16,6 +17,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
+=======
+>>>>>>> e30bf0e406e2d115aabf4e8ebe4f74cc92d39770
 MediClock 💊
 
 MediClock is a full-featured medication tracking app built with flutter. It helps users manage medications, receive reminders, track progress, and never miss a dose.
@@ -101,4 +104,7 @@ Data persistence strategies
 Deployment considerations
 
 
+<<<<<<< HEAD
+>>>>>>> e30bf0e406e2d115aabf4e8ebe4f74cc92d39770
+=======
 >>>>>>> e30bf0e406e2d115aabf4e8ebe4f74cc92d39770
